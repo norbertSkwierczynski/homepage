@@ -1,0 +1,39 @@
+body {
+    background: #fefefe;
+}
+
+section {
+    background: gainsboro;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: blueviolet;
+}
+
+h2 {
+    color: #1460aa;
+}
+
+.hotpink-header {
+    color: black;
+}
+
+
+a {
+    color: #f26d00;
+}
+
+header a {
+    color: #b36a5e;
+}
+
+#name {
+    color: red;
+}
+.naglowek {
+    background: greenyellow;
+}
